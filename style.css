@@ -16,6 +16,9 @@ body {
     text-align: center;
 	color: white;
 }
+@media screen and (max-width:60px){
+	.column.
+}
 
 /* The navbar container */
 .topnav {
