@@ -17,11 +17,6 @@ body {
 	color: white;
 	margin-top: 20px;
 }
-@media screen and (max-width:60px){
-	.footer {
-		width: 100%;
-}
-
 /* The navbar container */
 .topnav {
     overflow: hidden;
