@@ -17,7 +17,7 @@ body {
 	color: white;
 }
 @media screen and (max-width:60px){
-	.column {
+	.footer {
 		width: 100%;
 }
 
