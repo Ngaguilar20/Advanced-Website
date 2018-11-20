@@ -53,6 +53,6 @@ body {
 }
 /*light column styles */
 .leftcolumn {   
-    float: left;
+    float: right;
     width: 74%;
 }
